@@ -1,2 +1,2 @@
 # NetGame
-Jeux en réseau plusieurs joueur. 
+Jeux en réseau plusieurs joueurs. 
