@@ -1,0 +1,35 @@
+[PropertyInfo]
+asServeurTable,boolean,false,false, , ,true,<default>
+coupDuCycleEnCour,int,false,false, , ,true,<default>
+coupsduCycle,UnCoup[],false,false, , ,true,<default>
+curenNavirNavires,TPoint[][],false,false, , ,true,<default>
+cycleEncour,int,false,false, , ,true,<default>
+full,boolean,false,false, , ,true,<default>
+gameStart,boolean,false,false, , ,true,<default>
+joueurForfaitair,PersoInfos,false,false, , ,true,<default>
+joueurMax,int,false,false, , ,true,<default>
+joueurVivants,int,false,false, , ,true,<default>
+latable,int,false,false, , ,false,<default>
+listCoupsduCycle,LinkedList,false,false, , ,true,<default>
+listCoupsGlobale,MatrixListe,false,false, , ,false,<default>
+localAllId,PersoInfos[],false,false, , ,true,<default>
+localAllId2,Object[],false,false, , ,true,<default>
+navires,TPoint[][],false,false, , ,true,<default>
+Navires,TPoint[][],false,false, , ,false,<default>
+nbjeutonsParJoueur,int,false,false, , ,true,<default>
+nbJeutonsparoyeur,int,false,false, , ,false,<default>
+nbjoueursPresent,int,false,false, , ,true,<default>
+numTable,int,false,false, , ,true,<default>
+serveurTable,boolean,false,false, , ,true,<default>
+ServeurTable,boolean,false,false, , ,false,<default>
+start,boolean,false,false, , ,true,<default>
+table,int,false,false, , ,true,<default>
+thereaWiner,boolean,false,false, , ,true,<default>
+theWiner,PersoInfos,false,false, , ,true,<default>
+waitCycle,boolean,false,false, , ,true,<default>
+waitingForAllCoup,boolean,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

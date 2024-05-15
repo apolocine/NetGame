@@ -1,0 +1,56 @@
+[PropertyInfo]
+ALLuser,PersoInfos[],false,false, , ,true,<default>
+ALLuser,String,false,false, , ,true,<default>
+allUserID,PersoInfos[],false,false, , ,true,<default>
+conntype,boolean,false,false, , ,true,<default>
+defaultype,boolean,false,false, , ,true,<default>
+endGametype,boolean,false,false, , ,true,<default>
+endLapetype,boolean,false,false, , ,true,<default>
+fields,int,false,false, , ,false,<default>
+fStrTrame,String[],false,false, , ,false,<default>
+hit,TPoint,false,false, , ,true,<default>
+hittype,boolean,false,false, , ,true,<default>
+initGametype,boolean,false,false, , ,true,<default>
+initUsrNumtype,boolean,false,false, , ,true,<default>
+MaxPersos,int,false,false, , ,false,<default>
+MP0,TPoint[][],false,false, , ,false,<default>
+mxPoint,TPoint[][],false,false, , ,true,<default>
+mxPoint,String,false,false, , ,true,<default>
+numtrame,int,false,false, , ,true,<default>
+oneCoup,UnCoup,false,false, , ,true,<default>
+perso,PersoInfos,false,false, , ,false,<default>
+perso1,PersoInfos,false,false, , ,false,<default>
+persoMulti,PersoInfos[],false,false, , ,false,<default>
+prc1,String,false,false, , ,false,<default>
+scorp,String,false,false, , ,true,<default>
+scorptype,boolean,false,false, , ,true,<default>
+strMsg,String,false,false, , ,true,<default>
+strMsgtype,boolean,false,false, , ,true,<default>
+T_CONN,int,false,false, , ,false,<default>
+T_DEFAULT,int,false,false, , ,false,<default>
+T_ENDGAME,int,false,false, , ,false,<default>
+T_ENDLAPE,int,false,false, , ,false,<default>
+T_HIT,int,false,false, , ,false,<default>
+T_INITGAME,int,false,false, , ,false,<default>
+T_SCORP,int,false,false, , ,false,<default>
+T_STRMSG,int,false,false, , ,false,<default>
+T_UNCOUP,int,false,false, , ,false,<default>
+T_UPDATE,int,false,false, , ,false,<default>
+T_USRNUM,int,false,false, , ,false,<default>
+type,int,false,false, , ,true,<default>
+typeasstr,String,false,false, , ,true,<default>
+typeMsg,int,false,false, , ,true,<default>
+unCouptype,boolean,false,false, , ,true,<default>
+updatetype,boolean,false,false, , ,true,<default>
+userID,PersoInfos,false,false, , ,true,<default>
+userNum,int,false,false, , ,true,<default>
+vecteurPoint,TPoint[],false,false, , ,true,<default>
+vecteurPoint,String,false,false, , ,true,<default>
+VP0,TPoint[],false,false, , ,false,<default>
+VP1,TPoint[],false,false, , ,false,<default>
+waitScorp,String,false,false, , ,true,<default>
+[IconNames]
+
+
+
+
